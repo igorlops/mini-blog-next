@@ -1,0 +1,13 @@
+.title {
+    color: var(--primary);
+    text-align: center;
+    box-shadow: 0 2px 0 var(--shadow);
+    padding: 16px;
+    margin-top: 0;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.titleSecondWord {
+    color: var(--secondary);
+}
